@@ -28,7 +28,7 @@ If a medicine is unavailable, the system **suggests alternative drugs**, making 
 ---
 
 ## Folder Structure
- Pharmacist-Assistant ┣  backend ┃ ┣  app.py # Flask backend API ┃ ┣  requirements.txt # Python dependencies ┣ 📂 frontend ┃ ┣  src/ # React components ┃ ┣ package.json # Frontend dependencies ┣ README.md # This file ┣  .gitignore # Ignore unnecessary files ┣  LICENSE # Open-source license
+ Pharmacist-Assistant ┣  backend ┃ ┣  app.py # Flask backend API ┃ ┣  requirements.txt # Python dependencies ┣ frontend ┃ ┣  src/ # React components ┃ ┣ package.json # Frontend dependencies ┣ README.md # This file ┣  .gitignore # Ignore unnecessary files ┣  LICENSE # Open-source license
 
 
 ---
