@@ -1,0 +1,169 @@
+medicine_name,strength,dosage_form,frequency,patient_name,age
+Belladonna,,,,Mr. John Smith,Unknown
+Dorzolamidum,10mg,,,Mr. John Smith,Unknown
+Cimetidine,50mg,,,Mr. John Smith,Unknown
+Oxprelol,50mg,tab,,Mr. John Smith,Unknown
+Methodone,,,,Unknown,Unknown
+Renedil,20mg,,,Mr. Varques Ramon,Unknown
+Ferrous Sulfate,300mg,,,Mr. Varques Ramon,Unknown
+Enterogermina,5ml,,,Unknown,Unknown
+Mucolite,,,,Unknown,Unknown
+Meftal,,Tab,,Unknown,Unknown
+Amoxil,,,,Unknown,Unknown
+Panadol,,,,Unknown,Unknown
+Azithromycin,,,,Unknown,Unknown
+Liposomal Amphotericin,,,,Unknown,46
+Panadol,,,,Unknown,46
+Augmentin,6ml,,BD,Unknown,Unknown
+Ambrodil,4ml,,od,Unknown,Unknown
+Remdec,,,,Ms. Shatty Pavell,Unknown
+Phenytoin Sodium Extended,,,od,Ms. Shatty Pavell,Unknown
+Ferrous Sulfate,,,,Unknown,Unknown
+Andial,,,,Unknown,Unknown
+Atorvastatin,,,,Unknown,Unknown
+Lipitor,,,,Unknown,Unknown
+Montelukast,,,,Unknown,Unknown
+Remdec,,,,Mr. Mickey Mouse,Unknown
+Aten,25mg,,,Mr. Mickey Mouse,Unknown
+Ferrous Sulfate,,,,Mr. Kevin Zadnick,Unknown
+Remdec,,,,Unknown,Unknown
+Diclofenac,,Tab,,Unknown,Unknown
+Altracal,,,od,Unknown,Unknown
+Tolbutamide,1000mg,,,Unknown,Unknown
+Lisinopril,,,,Unknown,Unknown
+Azithromycin,,,,Unknown,Unknown
+Metformin,,,,Unknown,Unknown
+Renedil,20mg,,,Unknown,Unknown
+Ambisome,50mg,,,Unknown,Unknown
+Amphotericin,,,,Unknown,Unknown
+Liposomal Amphotericin,,Inj,,Unknown,Unknown
+Tolbutamide,,,,Unknown,Unknown
+HYDROXY CHLOROQUINE,400mg,TAB,,Unknown,Unknown
+Vitamin C,1g,TAB,,Unknown,Unknown
+CETIRIZINE,10mg,TAB,,Unknown,Unknown
+Deplatt A,,,,Unknown,Unknown
+Tylenol,,,,Unknown,Unknown
+Deplatt A,150mg,,,Unknown,Unknown
+Paracetamol,,,,Unknown,Unknown
+Meftal,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Sompraz,,,,Unknown,Unknown
+Phexin,,,,"Mr. Manmohan
+Me",55
+Acetaminophen,650mg,,,Mr. John Hubbard,Unknown
+Aspirin,8mg,,,Mr. John Hubbard,Unknown
+Clopidogrel,75mg,,,Mr. John Hubbard,Unknown
+Ciprobay,,,,Mr. John Hubbard,Unknown
+Metoprolol,,,,Unknown,Unknown
+Panadol,,,,Unknown,Unknown
+Clopidogrel,,,,Unknown,Unknown
+CETIRIZINE,,,,Unknown,Unknown
+Zyrtec,,,,Unknown,Unknown
+Amoxil,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Deplatt A,,,,Mrs. Meena Dixit,41
+Metformin,,,,Mrs. Meena Dixit,41
+Acetaminophen,650mg,,,Mr. John Hubbard,Unknown
+Aspirin,8mg,,,Mr. John Hubbard,Unknown
+Clopidogrel,75mg,,,Mr. John Hubbard,Unknown
+Ciprobay,,,,Mr. John Hubbard,Unknown
+Remdec,,,,Unknown,Unknown
+Digoxin,0.125mg,,,Unknown,Unknown
+Tylenol,,,,Unknown,Unknown
+Remdec,,,,Mr. Harry Hypertensive,59
+Losartan,50 mg,Tab,,Mr. Harry Hypertensive,59
+Belladonna,,,,Unknown,Unknown
+Tylenol,,,,Unknown,Unknown
+Panadol,,,,Unknown,Unknown
+Cefalexin,,,,Unknown,Unknown
+Amoxicillin,50 mg,,,Unknown,Unknown
+Atorvastatin,,,,Unknown,Unknown
+Panadol,,,,"Ms. Shanaya
+M",6
+Remdec,,,,Unknown,Unknown
+Deplatt A,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Meftal,,,,Unknown,Unknown
+Remdec,,,,Mr. Mario Carlos,38
+Paracetamol,50mg,,,Mr. Mario Carlos,38
+Ibuprofen,150mg,,,Mr. Mario Carlos,38
+Renedil,20mg,,,Unknown,Unknown
+Ferrous Sulfate,300mg,,,Unknown,Unknown
+Amphotericin,,,,Unknown,30
+Liposomal Amphotericin,,,,Unknown,30
+Meftal,,,,Unknown,30
+Phexin,500mg,,,Ms. Fiza Mozawala,19
+Zerodol,,Tab,od,Ms. Fiza Mozawala,19
+Remdec,,,,Unknown,Unknown
+Lanol ER,,,,"Mrs. Kamini
+Tas",Unknown
+Albuterol,,,,Unknown,Unknown
+Metformin,,,,Unknown,Unknown
+Ibuprofen,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Belladonna,,,,Mr. John R,Unknown
+Amphogel,,,,Mr. John R,Unknown
+Ibuprofen,,,,"Ms. LAXMI
+S",52
+Rantac,,tab,OD,"Ms. LAXMI
+S",52
+Meftal,,,,Unknown,666
+Augmentin,625mg,Tab,,Mr. Sachin Sansare,Unknown
+Enzoflam,,Tab,,Mr. Sachin Sansare,Unknown
+PanD,40mg,Tab,,Mr. Sachin Sansare,Unknown
+Paracetamol,,tab,,Ms. LINA CRUZ,Unknown
+Amoxicillin,500mg,,,"Mr. Armando
+Cogna",29
+Remdec,,,,Mr. Alder Sharty,Unknown
+Phenytoin Sodium Extended,,,od,Mr. Alder Sharty,Unknown
+Ranitidine,,,,Mr. Alder Sharty,Unknown
+Liposomal Amphotericin,300mg,Inj,,Mr. Subhash Kumar,73
+Remdec,,,,Unknown,Unknown
+Montelukast,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Amoxil,,,,Unknown,Unknown
+Tolbutamide,,,,Unknown,Unknown
+Paracetamol,,,,Unknown,Unknown
+Amoxil,,,,Unknown,Unknown
+Erythromycin,,,,Unknown,Unknown
+Paracetamol,500mg,,,Unknown,Unknown
+Remdec,,,,Mr. Shailendra Kumar,Unknown
+Liposomal Amphotericin,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Diclofenac,,,,Unknown,Unknown
+Methodone,,,,Unknown,Unknown
+Methodone,40mg,,od,Mr. Todd Brazis,Unknown
+Remdec,,,,Unknown,Unknown
+Cefolac,5ml,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Losartan,50 mg,Tab,,Unknown,Unknown
+Remdec,,,,"Mr. Rahul
+R",Unknown
+Amoxil,,,,"Mr. Rahul
+R",Unknown
+Tylenol,,,,"Mr. Rahul
+R",Unknown
+Amoxil,,,,Unknown,Unknown
+Ranitidine,150mg,,,Unknown,Unknown
+Paracetamol,500mg,,,Unknown,Unknown
+Amofil,125mg,,,Ms. Melissa Austin,1
+Remdec,,,,Unknown,Unknown
+Paracetamol,500 mg,,,Unknown,Unknown
+Doxycycline,,,,Unknown,Unknown
+Meftal,,,,Unknown,Unknown
+Doxycycline,,,,Unknown,Unknown
+Lipitor,,,,Unknown,Unknown
+Remdec,,,,Unknown,Unknown
+Ascorbic acid,,,,Ms. Lolita Alvarez,39
+Actemra,400mg,Inj,OD,"MR.
+AJAY
+SETHI",62
+Deplatt A,,,,"MR.
+AJAY
+SETHI",62
+Azithromycin,200 mg,,,Mr. Joseph McIntyre,Unknown
+Digoxin,0.125 mg,,,Unknown,Unknown
+Amoxicillin,50 mg,,,Unknown,Unknown
+Liposomal Amphotericin,,,,Mr. Venkateshwar Papini,Unknown
+Amphotericin,,,,Mr. Venkateshwar Papini,Unknown
